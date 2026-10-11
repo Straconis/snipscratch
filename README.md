@@ -1,10 +1,12 @@
+![SnipScratch — by S3D Labs](SnipScratch-Banner.png)
+
 # SnipScratch
 
 **Capture fast. Make your point. Keep moving.**
 
 SnipScratch is an **S3D Labs** project with an open-source vision: a Windows-first utility for fast screen capture, quick annotation, and smooth screen recording. The goal is to make capturing and explaining what is on your screen feel immediate, with a small floating toolbar and dependable hotkeys close at hand.
 
-> **Status: planning and architecture exploration.** This repository currently contains the project README only. There is no application, installer, or working integration yet. Features below are goals, not claims of shipped functionality. An open-source license will be selected before implementation is released.
+> **Status: planning and architecture exploration.** This repository currently contains the project README and branding banner. There is no application, installer, or working integration yet. Features below are goals, not claims of shipped functionality. An open-source license will be selected before implementation is released.
 
 ## The experience we want
 
